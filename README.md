@@ -13,7 +13,6 @@
 <p align="left">
 <a href="https://twitter.com/ziamominn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ziamominn" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ziamominn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ziamominn" height="30" width="40" /></a>
-<a href="https://fb.com/ziamominn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ziamominn" height="30" width="40" /></a>
 <a href="https://instagram.com/ziamominn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ziamominn" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/ziamominn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ziamominn" height="30" width="40" /></a>
 <a href="https://discord.gg/ziamominn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ziamominn" height="30" width="40" /></a>
