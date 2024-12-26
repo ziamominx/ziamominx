@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ziamominn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ziamominn" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ziamominn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ziamominn" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ziamominn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[ziamominn](https://in.linkedin.com/in/ziamomin?trk=people-guest_people_search-card&original_referer=https%3A%2F%2Fwww.linkedin.com%2F)" height="30" width="40" /></a>
 <a href="https://instagram.com/ziamominn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ziamominn" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/ziamominn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ziamominn" height="30" width="40" /></a>
 <a href="https://discord.gg/ziamominn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ziamominn" height="30" width="40" /></a>
